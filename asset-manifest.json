@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.682eb1f6.css",
-    "main.js": "/myportfolio/static/js/main.69d98f14.js",
+    "main.css": "/myportfolio/static/css/main.85b529f6.css",
+    "main.js": "/myportfolio/static/js/main.8134c16a.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/photo.jpg": "/myportfolio/static/media/photo.33573bfe5617f195c23a.jpg",
     "static/media/designer.jpg": "/myportfolio/static/media/designer.6594eec8b3123b42ea79.jpg",
     "static/media/nevatrip.jpg": "/myportfolio/static/media/nevatrip.ea1742e6f770dec8e0b5.jpg",
     "static/media/pipernet.jpg": "/myportfolio/static/media/pipernet.715912271b0526e874bc.jpg",
+    "static/media/grocery.jpg": "/myportfolio/static/media/grocery.ed68b5a9b669243f098c.jpg",
+    "static/media/bike.jpg": "/myportfolio/static/media/bike.6fa482d6940e9629462d.jpg",
     "static/media/work5.jpg": "/myportfolio/static/media/work5.0558b4cd41a8fb2e3782.jpg",
     "static/media/bootstrap.png": "/myportfolio/static/media/bootstrap.abedfc48577a7c467fc7.png",
     "static/media/sass.png": "/myportfolio/static/media/sass.f495ec9be39aca6de71c.png",
@@ -18,12 +20,12 @@
     "static/media/swiper.png": "/myportfolio/static/media/swiper.62395db63d51a32ffef2.png",
     "static/media/git.png": "/myportfolio/static/media/git.cdee09e5f6e8f3f610b6.png",
     "index.html": "/myportfolio/index.html",
-    "main.682eb1f6.css.map": "/myportfolio/static/css/main.682eb1f6.css.map",
-    "main.69d98f14.js.map": "/myportfolio/static/js/main.69d98f14.js.map",
+    "main.85b529f6.css.map": "/myportfolio/static/css/main.85b529f6.css.map",
+    "main.8134c16a.js.map": "/myportfolio/static/js/main.8134c16a.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.682eb1f6.css",
-    "static/js/main.69d98f14.js"
+    "static/css/main.85b529f6.css",
+    "static/js/main.8134c16a.js"
   ]
 }
