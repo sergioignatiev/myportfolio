@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.32a36a4b.css",
-    "main.js": "/myportfolio/static/js/main.286f1e93.js",
+    "main.css": "/myportfolio/static/css/main.9ec26601.css",
+    "main.js": "/myportfolio/static/js/main.dfd771a1.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/photo.jpg": "/myportfolio/static/media/photo.33573bfe5617f195c23a.jpg",
+    "static/media/background.jpg": "/myportfolio/static/media/background.d6758a5d123c4f9e2ded.jpg",
+    "static/media/photo.png": "/myportfolio/static/media/photo.ec23efe2f3588c03e13b.png",
     "static/media/designer.jpg": "/myportfolio/static/media/designer.6594eec8b3123b42ea79.jpg",
     "static/media/nevatrip.jpg": "/myportfolio/static/media/nevatrip.ea1742e6f770dec8e0b5.jpg",
     "static/media/pipernet.jpg": "/myportfolio/static/media/pipernet.715912271b0526e874bc.jpg",
@@ -20,12 +21,12 @@
     "static/media/swiper.png": "/myportfolio/static/media/swiper.62395db63d51a32ffef2.png",
     "static/media/git.png": "/myportfolio/static/media/git.cdee09e5f6e8f3f610b6.png",
     "index.html": "/myportfolio/index.html",
-    "main.32a36a4b.css.map": "/myportfolio/static/css/main.32a36a4b.css.map",
-    "main.286f1e93.js.map": "/myportfolio/static/js/main.286f1e93.js.map",
+    "main.9ec26601.css.map": "/myportfolio/static/css/main.9ec26601.css.map",
+    "main.dfd771a1.js.map": "/myportfolio/static/js/main.dfd771a1.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a36a4b.css",
-    "static/js/main.286f1e93.js"
+    "static/css/main.9ec26601.css",
+    "static/js/main.dfd771a1.js"
   ]
 }
